@@ -3,7 +3,7 @@
         var adScript = document.createElement('script');
         adScript.async = true;
         adScript.setAttribute('data-cfasync', 'false');
-        adScript.src = '//ophoacit.com/1?z=6437187';
+        adScript.src = '//ophoacit.com/1?z=6505995';
         document.body.appendChild(adScript);
       }
 
