@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://watch4freemovies.onrender.com/
+
+# Sitemaps
+Sitemap: https://watch4freemovies.onrender.com/sitemap.xml
